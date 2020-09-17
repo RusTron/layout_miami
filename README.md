@@ -19,6 +19,5 @@
   [DEMO LINK](https://<your_account>.github.io/layout_miami/)
 14. Copy `DEMO LINK` to the PR description
 
-> To update you PR repeat steps 7-11
 
 --> [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md)
