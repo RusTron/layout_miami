@@ -3,4 +3,4 @@
 
 [Miami](https://rustron.github.io/layout_miami/) landing page
 
---> [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md)
+
